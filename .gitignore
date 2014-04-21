@@ -1,0 +1,19 @@
+# assets
+web/bundles/
+
+# config
+app/config/parameters.yml
+
+# cache
+app/bootstrap.php.cache
+app/cache/*
+
+# log
+app/logs/*
+
+# vendor
+build/
+vendor/
+
+# test
+app/phpunit.xml
