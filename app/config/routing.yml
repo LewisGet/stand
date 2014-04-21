@@ -1,0 +1,5 @@
+aedes_stand:
+    resource: "@AedesStandBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
